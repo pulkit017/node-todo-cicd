@@ -5,8 +5,11 @@ const express = require('express'),
     // Mitigate XSS using sanitizer
     sanitizer = require('sanitizer'),
     app = express(),
-    port = 8000
-
+    port = 8000,
+    test=true
+    if(test==true){
+        console.log("true")
+    }
 app.use(bodyParser.urlencoded({
     extended: false
 }));
