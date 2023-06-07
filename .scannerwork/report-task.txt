@@ -2,5 +2,5 @@ projectKey=node-todo-cicd
 serverUrl=http://localhost:9000
 serverVersion=10.0.0.68432
 dashboardUrl=http://localhost:9000/dashboard?id=node-todo-cicd
-ceTaskId=AYh1h-oq8PwFBnwZF69d
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYh1h-oq8PwFBnwZF69d
+ceTaskId=AYiVmK1vVRApGCNPZ-Cj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYiVmK1vVRApGCNPZ-Cj
