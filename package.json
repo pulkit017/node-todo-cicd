@@ -12,7 +12,8 @@
     "start": "node app.js",
     "test": "mocha --recursive --exit",
     "prepare": "husky install",
-    "sonar": "sonar-scanner"
+    "sonar": "sonar-scanner",
+    "build': "npm run build"
   },
   "author": "riaan@entersekt.com",
   "description": "Basic to do list exercise",
